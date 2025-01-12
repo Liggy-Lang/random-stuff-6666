@@ -1,4 +1,4 @@
-# GoGuardian Blocker Bookmarklet
+# GoGuardian By-passer Bookmarklet
 
 **Created by Liggy-Lang**
 
