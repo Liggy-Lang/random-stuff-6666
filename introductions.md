@@ -44,4 +44,4 @@ For other browsers, the process is similar. Open your bookmarks manager and crea
 
 ## Scripts file
 
-Please copy the following code in the "scripts" file and paste it into the URL field when creating the bookmark in your browser...and if it doesnt work try it with no spaces and make sure **javascript** is at the beginning of the code
+Please copy the following code in the "scripts" file and paste it into the URL field when creating the bookmark in your browser...and if it doesnt work try it with no spaces and make sure **javascript:** is at the beginning of the code
